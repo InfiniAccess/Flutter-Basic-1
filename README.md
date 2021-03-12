@@ -6,5 +6,5 @@ This application is designed to showcase the basic understanding of flutter appl
 
 This application is a challenge project for Dr. Angela Yu's The Complete 2021 Flutter Development Bootcamp with Dart course on Udemy. 
 
-If you want to get into learning flutter then I highly suggest you checkout this course. It is packed with all the basics you need to become a flutter expert.
+If you want to get into learning Flutter then I highly suggest you checkout this course. It is packed with all the basics you need to become a Flutter expert.
 https://www.udemy.com/course/flutter-bootcamp-with-dart/
